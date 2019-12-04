@@ -10,7 +10,7 @@ public class secretmessage {
 	String l23 = JOptionPane.showInputDialog(null,"WHAT IS THE SECRET MESSAGE");
 
 		
-	String  TTT= JOptionPane.showInputDialog(null,"WHAT IS THE PASSWORD TO SEE YOUR MESSAGE");
+	String  TTT= JOptionPane.showInputDialog(null,"WHAT IS THE PASSWORD TO SEE THE MESSAGE");
 		
 		
 	if (TTT.equals(password)) {
