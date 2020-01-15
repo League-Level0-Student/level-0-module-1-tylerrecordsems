@@ -1,0 +1,80 @@
+TEST 1
+
+String
+int
+int
+String "12"
+Java
+Jim
+= "farmer";
+= 90000000000000000000000;
+= "12/12/12";
+= 3;
+String birthday = "dog";
+String meal = "fish";
+String bedtime = "1:00 AM";
+int Robot programs = 100;
+
+TEST 2
+
+  for(int i=1; i<12;i+=1) {
+    System.out.println(i);
+	     
+for(int i=75; i>=50;i-=1) {
+ System.out.println(i);
+
+A
+wHERE THE NUMBER STARTS 
+B
+how long to go
+C
+What and how to change the number
+
+TEST 2
+
+String day = "yes";
+
+if(day.equals ("yes")){
+	      System.out.println("HAPPY");
+}
+else{
+	      System.out.println("sad");
+}
+sad
+
+int age = 12;
+if(age.equal ("12")){
+	      System.out.println("It’s so great being young");
+}
+else{
+	      System.out.println("sad");
+
+String animal=JOptionPane.showInputDialog(null, "what is your favorite pet");
+if (animal.equals("dog")) {
+	JOptionPane.showMessageDialog(null, "dog go woof");
+}
+	if (animal.equals("cat")) {
+	JOptionPane.showMessageDialog(null, "cat g0 meow");
+}
+	else JOptionPane.showMessageDialog(null, “I don’t know that animal.”);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
